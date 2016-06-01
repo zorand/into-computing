@@ -38,15 +38,12 @@ main() {
 - Време да се напише први програм и то на неколико језика! Шта још можете да урадите? Да ли можете да напишете дужи текст? Нацртате нешто? Шта је то ascii art?
 
 ```
-H   H EEEEE L     L      OOO       W   W  OOO  RRRR  L     DDDD  !!
-H   H E     L     L     O   O      W W W O   O R   R L     D   D !! 
-HHHHH EEEEE L     L     O   O      W W W O   O RRRR  L     D   D !! 
-H   H E     L     L     O   O  ,,   W W  O   O R   R L     D   D    
-H   H EEEEE LLLLL LLLLL  OOO  ,,    W W   OOO  R   R LLLLL DDDD  !!
+H   H EEEEE L     L       OO       W       W  OO   RRR   L     DDD   !!
+H   H E     L     L      O  O       W     W  O  O  R  R  L     D  D  !! 
+HHHHH EEEEE L     L     O    O       W W W  O    O RRR   L     D   D !! 
+H   H E     L     L      O  O         W W    O  O  R  R  L     D  D    
+H   H EEEEE LLLL  LLLL    OO          W W     OO   R   R LLLL  DDD   !!
 
-……(\__/) 
-……(=’.’=) 
-…☆(”)_(”)☆ 
 
                __:.__
               (_:..'"=
@@ -108,3 +105,7 @@ H   H EEEEE LLLLL LLLLL  OOO  ,,    W W   OOO  R   R LLLLL DDDD  !!
        `\__K-"\__.-"              ^.__K-"
 
 ```
+
+Ascii Art borrowed from:
+- http://www.chris.com/ascii/index.php?art=comics/calvin%20and%20hobbes
+- http://www.chris.com/ascii/index.php?art=comics/garfield
