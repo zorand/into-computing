@@ -11,6 +11,17 @@ Zoran Dimitrijevic <zorand@gmail.com>
 
 ## How to Run Code
 
+### Online Resources
+- Basic: http://www.calormen.com/jsbasic/
+- JavaScript: http://math.chapman.edu/~jipsen/js/
+- Go: https://play.golang.org/
+- Python: http://www.tutorialspoint.com/execute_python_online.php
+- Ruby: http://www.tutorialspoint.com/ruby_terminal_online.php
+- C++: http://www.tutorialspoint.com/compile_cpp11_online.php
+- Java: http://www.tutorialspoint.com/compile_java_online.php
+- Multiple languages (most): http://www.tutorialspoint.com/codingground.htm
+
+### Using your own Computer
 In order to run examples on your computer, you must first install git as well as development environment for any example you want to run. Then run:
 
 ```
