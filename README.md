@@ -28,6 +28,12 @@ In order to run examples on your computer, you must first install git as well as
 git clone http://www.github.com/zorand/into-computing
 ```
 
+## Philosophy of Teaching Computer Science
+
+We will evolve the strategy when we get more experience, but our intention is to design this course for gifted students who are motivated to learn Computer Science and ultimately Software Engineering. Our main focus is towards building systems, which is sometimes bias towards practical engineering approaches over pure theoretical issues. However, by writing and running code, and measuring performance and performing back-of-the envelope calculations, we hope our students will get the necessary intuition (and tools) to recognize when they can get away using brute-force algorithms and write simple code and when they need to design efficient and elegant algorithms to solve their problems. We will also teach students why simplicity is important and insist that the code they write is simple, elegant and easy to test.
+
+We also want to make this course teach them some history of computing, introduce important computer scientists and engineers, explain Moore's Law and why systems were built in a particular way. We also want to make it both fun and challenging, so not all problems are given to be solved immediately but to motivate and challenge students - and ultimately to make them self confident since we expect that good students will be able to solve all problems by the end of this course.
+
 ## Licence
 
 TBD
